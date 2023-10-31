@@ -102,3 +102,9 @@ footer {
     margin-bottom: 80px;
     align-items: center;
 }
+img{
+    max-width:100%;
+}
+nav{
+    max-width: 100%;
+}
